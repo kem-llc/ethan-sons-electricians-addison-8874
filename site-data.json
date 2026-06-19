@@ -2,320 +2,321 @@
   "business": {
     "name": "Ethan & Sons Electricians",
     "shortName": "Ethan & Sons",
-    "tagline": "Reliable, Licensed Electricians Serving Addison & Beyond",
+    "tagline": "Your Trusted Addison Electricians",
     "niche": "Electrician",
-    "phone": "(469) 425-8874",
-    "address": "4575 Westgrove Dr #7400, Addison, TX 75001",
+    "phone": "(469) 425-8874",
+    "address": "Done",
     "city": "Addison, TX",
-    "hours": "Mon-Fri 7am-7pm, Sat 8am-4pm, Sun Closed",
-    "ctaLabel": "Schedule Service"
+    "hours": "Mon–Fri: 7am–7pm, Sat: 8am–5pm, Sun: Closed",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Ethan & Sons Electricians | Top-Rated Electrician in Addison, TX",
-    "description": "Ethan & Sons Electricians offers expert electrical services in Addison, TX. 4.8 stars, licensed, insured, and family-owned. Call (469) 425-8874 for fast, safe repairs."
+    "title": "Ethan & Sons Electricians | Best Electrician in Addison, TX",
+    "description": "Ethan & Sons Electricians in Addison, TX offers expert electrical services: panel upgrades, wiring, lighting, and more. Licensed, insured, and family-owned. Call (469) 425-8874."
   },
   "home": {
     "hero": {
-      "eyebrow": "Family-Owned & Operated Since 1998",
-      "headline": "Your Trusted Electrician in Addison, TX",
-      "subheadline": "Licensed, insured, and rated 4.8 stars – we fix it right the first time, every time.",
+      "eyebrow": "Family-Owned & Operated",
+      "headline": "Reliable Electrical Services in Addison, TX",
+      "subheadline": "From panel upgrades to smart lighting, our licensed electricians deliver safe, code-compliant solutions with honest pricing.",
       "primaryCta": "Get a Free Estimate",
       "secondaryCta": "Call (469) 425-8874"
     },
     "stats": [
       {
-        "value": "4.8",
-        "label": "Star Rating"
+        "value": "200+",
+        "label": "Projects Completed"
       },
       {
-        "value": "500+",
-        "label": "5-Star Reviews"
+        "value": "4.9",
+        "label": "Average Rating"
       },
       {
-        "value": "26+",
-        "label": "Years in Business"
+        "value": "15+",
+        "label": "Years Experience"
       },
       {
-        "value": "10k+",
-        "label": "Homes Served"
+        "value": "100%",
+        "label": "Licensed & Insured"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Why Addison Homeowners Choose Us",
-        "title": "Fast, Safe, and Upfront Pricing",
-        "body": "We know electrical emergencies can't wait. That's why we offer same-day service and transparent quotes with no hidden fees. Our licensed electricians arrive on time, solve the problem, and leave your home cleaner than we found it.",
+        "eyebrow": "Safety First",
+        "title": "Code-Compliant Electrical Work You Can Trust",
+        "body": "Every job we do meets or exceeds local codes. We take the time to inspect, test, and verify — so your home stays safe and your system runs efficiently.",
         "bullets": [
-          "Same-day service for emergencies",
-          "Upfront pricing – no surprises",
-          "Licensed, bonded, and insured",
-          "Clean work areas guaranteed"
+          "Thorough load calculations",
+          "Permit-ready installations",
+          "Post-work safety inspection"
         ],
         "reverse": false,
         "cardLabel": "Peace of Mind",
-        "cardTitle": "Warranty on All Work",
-        "cardBody": "Every job we complete comes with a full warranty. If something isn't right, we'll make it right – no questions asked."
+        "cardTitle": "Worry-Free Service",
+        "cardBody": "We back our work with a full satisfaction guarantee. If something isn’t right, we’ll make it right — no questions asked."
       },
       {
-        "eyebrow": "Comprehensive Electrical Solutions",
-        "title": "From Simple Repairs to Full Rewires",
-        "body": "Whether you need a ceiling fan installed, a panel upgrade, or whole-home surge protection, our experienced team handles it all. We use top-quality materials and follow code to ensure your family's safety.",
+        "eyebrow": "Modern Solutions",
+        "title": "Smart Home & Energy-Efficient Upgrades",
+        "body": "Bring your home into the future with smart switches, dimmers, and energy-saving fixtures. We help you reduce your bill and increase convenience.",
         "bullets": [
-          "Panel upgrades & replacements",
-          "Lighting installation & design",
-          "Whole-home surge protection",
-          "EV charger installation"
+          "Smart thermostat installation",
+          "LED retrofits & fixtures",
+          "Whole-home surge protection"
         ],
         "reverse": true,
-        "cardLabel": "Safety First",
-        "cardTitle": "Code-Compliant Work",
-        "cardBody": "All our electrical work meets or exceeds the latest National Electrical Code standards. Your safety is our priority."
+        "cardLabel": "Save Energy",
+        "cardTitle": "Lower Your Bills",
+        "cardBody": "Our energy audits identify waste and recommend upgrades that pay for themselves over time."
       }
     ],
-    "whyTitle": "Why Homeowners Trust Ethan & Sons",
+    "whyTitle": "Why Addison Homeowners Choose Us",
     "whyChooseUs": [
       {
         "title": "Licensed & Insured",
-        "description": "We carry full liability insurance and workers' comp, so you're never at risk."
+        "description": "We carry full liability and workers’ comp insurance, plus a valid Texas electrical license. Your property is protected."
       },
       {
-        "title": "Locally Owned",
-        "description": "We're your neighbors in Addison, not a corporate chain. We care about our community."
+        "title": "Transparent Pricing",
+        "description": "No hidden fees, no surprises. We provide a detailed written estimate before any work begins."
       },
       {
-        "title": "24/7 Emergency Service",
-        "description": "Electrical emergencies don't wait – and neither do we. Call anytime, day or night."
+        "title": "On-Time Arrival",
+        "description": "We respect your schedule. Our technicians arrive within the promised window and communicate if delays occur."
       },
       {
-        "title": "Satisfaction Guaranteed",
-        "description": "If you're not happy with the work, we'll make it right. Over 500 five-star reviews prove it."
+        "title": "Clean & Respectful",
+        "description": "We treat your home with care — wearing booties, using drop cloths, and cleaning up thoroughly after every job."
       }
     ],
     "testimonials": [
       {
-        "quote": "Ethan & Sons rewired our entire home. Professional, on time, and the work is flawless. Highly recommend!",
+        "quote": "Ethan & Sons rewired our entire 1950s home. They were punctual, professional, and left every room spotless. Highly recommend!",
         "author": "Sarah M.",
-        "role": "Addison, TX"
+        "role": "Addison Homeowner"
       },
       {
-        "quote": "Had a panel emergency on a Saturday. They came within an hour and fixed it quickly. Fair price too!",
-        "author": "Mike D.",
-        "role": "Addison, TX"
+        "quote": "We needed an emergency panel replacement on a Saturday. They came out within an hour and had us back up and running. Fair price, too.",
+        "author": "James T.",
+        "role": "Addison Resident"
       },
       {
-        "quote": "Installed new recessed lighting and dimmers. Looks amazing and the team was super clean. Will use again.",
-        "author": "Linda K.",
-        "role": "Addison, TX"
+        "quote": "Installed smart switches and dimmers throughout our house. The team explained everything and made sure we knew how to use them. Great experience!",
+        "author": "Linda R.",
+        "role": "Addison Homeowner"
       }
     ],
     "cta": {
       "headline": "Ready to Get Started?",
-      "subheadline": "Call us or book online for a free estimate. No obligation, just honest advice.",
-      "primaryCta": "Book Online",
+      "subheadline": "Call us or fill out our form for a free, no-obligation estimate.",
+      "primaryCta": "Get a Free Estimate",
       "secondaryCta": "Call (469) 425-8874"
     }
   },
   "servicesPage": {
-    "intro": "From minor fixes to major upgrades, our licensed electricians deliver safe, reliable solutions tailored to your home or business. Every service comes with a warranty and our 4.8-star commitment."
+    "intro": "From small repairs to full rewires, Ethan & Sons Electricians offers a full range of electrical services in Addison, TX. Our licensed technicians bring years of experience and a commitment to quality on every job."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Electrical Repairs & Troubleshooting",
-      "shortDescription": "Fast diagnosis and repair for outages, flickering lights, dead outlets, and more.",
-      "longDescription": "When something goes wrong with your electrical system, you need a pro who can find the root cause quickly. Our electricians use advanced diagnostic tools to pinpoint issues – from faulty wiring to overloaded circuits – and fix them right the first time. We handle everything from a single dead outlet to whole-house power failures, always with safety and code compliance in mind.",
+      "title": "Electrical Panel Upgrades",
+      "shortDescription": "Upgrade your breaker panel for safety and capacity.",
+      "longDescription": "Older panels can’t handle modern loads. We replace outdated fuse boxes and breaker panels with code-compliant units that support today’s appliances and electronics.",
       "benefits": [
-        "Same-day service for urgent repairs",
-        "Accurate diagnosis saves time and money",
-        "All repairs backed by a satisfaction guarantee"
+        "Increased electrical capacity",
+        "Reduced fire risk",
+        "Supports future additions"
       ],
       "process": [
         {
-          "title": "Diagnosis",
-          "description": "We inspect the problem using thermal imaging and circuit testers to identify the exact issue."
+          "title": "Inspection",
+          "description": "We assess your current panel and load requirements."
         },
         {
-          "title": "Plan",
-          "description": "We explain the cause, show you options, and provide a fixed-price quote before any work begins."
+          "title": "Permit & Prep",
+          "description": "We handle all permits and prepare the site for a safe installation."
         },
         {
-          "title": "Repair",
-          "description": "Our licensed electricians perform the repair safely and efficiently, then test everything to ensure it works perfectly."
+          "title": "Installation",
+          "description": "We replace the panel, test all circuits, and clean up."
         }
       ],
       "faqs": [
         {
-          "question": "How quickly can you respond to an emergency?",
-          "answer": "We offer 24/7 emergency service and typically arrive within 1-2 hours for urgent calls in Addison."
+          "question": "How do I know if I need a panel upgrade?",
+          "answer": "Signs include flickering lights, frequent breaker trips, and using many high-wattage devices."
         },
         {
-          "question": "Do you charge for estimates?",
-          "answer": "No, we provide free, no-obligation estimates for all repair and installation work."
+          "question": "How long does a panel upgrade take?",
+          "answer": "Most residential upgrades are completed in 4–8 hours."
         }
       ],
-      "slug": "electrical-repairs-troubleshooting"
+      "slug": "electrical-panel-upgrades"
     },
     {
       "icon": "02",
-      "title": "Panel Upgrades & Replacement",
-      "shortDescription": "Upgrade your electrical panel for safety, capacity, and peace of mind.",
-      "longDescription": "An outdated or undersized electrical panel is a fire hazard and can't handle modern power demands. Our team specializes in upgrading panels to 200 amps or more, ensuring your home meets current code and can support appliances, EV chargers, and electronics. We handle permits, inspections, and all utility coordination for a hassle-free experience.",
+      "title": "Whole-Home Rewiring",
+      "shortDescription": "Replace old, unsafe wiring throughout your home.",
+      "longDescription": "Homes with outdated wiring (knob-and-tube, aluminum, or degraded Romex) pose serious risks. We completely rewire your home to modern standards, ensuring safety and reliability.",
       "benefits": [
-        "Increases home safety and reduces fire risk",
-        "Supports modern appliances and electronics",
-        "Adds value to your property"
+        "Eliminates fire hazards",
+        "Supports modern electronics",
+        "Increases home value"
       ],
       "process": [
         {
           "title": "Assessment",
-          "description": "We evaluate your current panel, load requirements, and future needs to recommend the right upgrade."
+          "description": "We inspect the existing wiring and create a detailed plan."
         },
         {
-          "title": "Permitting",
-          "description": "We pull all necessary permits and schedule inspections so you don't have to."
+          "title": "Rough-In",
+          "description": "We run new cables, install boxes, and prepare for drywall repair."
         },
         {
-          "title": "Installation",
-          "description": "Our electricians install the new panel with clean wiring, label circuits, and test everything before turning power back on."
+          "title": "Finish & Test",
+          "description": "We connect fixtures, outlets, and switches, then test every circuit."
         }
       ],
       "faqs": [
         {
-          "question": "How long does a panel upgrade take?",
-          "answer": "Most panel upgrades are completed in 4-8 hours. We work efficiently to minimize downtime."
+          "question": "Will rewiring damage my walls?",
+          "answer": "Some access holes are necessary, but we work with your drywall contractor to minimize damage."
         },
         {
-          "question": "Do I need a permit for a panel upgrade?",
-          "answer": "Yes, and we handle all permits and inspections to ensure the work is up to code."
+          "question": "How long does a full rewire take?",
+          "answer": "A typical 2,000 sq ft home takes 3–5 days."
         }
       ],
-      "slug": "panel-upgrades-replacement"
+      "slug": "whole-home-rewiring"
     },
     {
       "icon": "03",
       "title": "Lighting Installation & Design",
-      "shortDescription": "Transform your space with custom lighting solutions – indoor and outdoor.",
-      "longDescription": "Great lighting enhances safety, ambiance, and energy efficiency. Whether you want elegant recessed lighting, statement chandeliers, or landscape lighting that highlights your property, our designers and electricians bring your vision to life. We use energy-efficient LED fixtures and smart controls to give you convenience and savings.",
+      "shortDescription": "Indoor and outdoor lighting solutions.",
+      "longDescription": "Enhance your home’s ambiance and security with custom lighting. We install recessed lights, chandeliers, landscape lighting, and smart controls.",
       "benefits": [
-        "Custom designs tailored to your style",
-        "Energy-efficient LED options reduce bills",
-        "Smart lighting for convenience and security"
+        "Energy-efficient LED options",
+        "Smart home integration",
+        "Increased curb appeal"
       ],
       "process": [
         {
           "title": "Consultation",
-          "description": "We discuss your goals, measure spaces, and review fixture options to create a plan."
-        },
-        {
-          "title": "Design",
-          "description": "Our team provides a layout and fixture selection, including dimmers and smart controls."
+          "description": "We discuss your vision and recommend fixtures and placement."
         },
         {
           "title": "Installation",
-          "description": "We install all fixtures, run wiring neatly, and program smart features so everything works seamlessly."
+          "description": "We wire and mount all fixtures, ensuring proper support and connections."
+        },
+        {
+          "title": "Testing",
+          "description": "We test every light and demonstrate controls."
         }
       ],
       "faqs": [
         {
-          "question": "Can you install outdoor lighting for security?",
-          "answer": "Absolutely. We offer motion-sensor lights, floodlights, and whole-property illumination for safety and aesthetics."
+          "question": "Do you install outdoor lighting?",
+          "answer": "Yes, we install landscape, security, and patio lighting."
         },
         {
-          "question": "Do you install smart home lighting systems?",
-          "answer": "Yes, we install and configure systems like Lutron, Philips Hue, and other smart platforms."
+          "question": "Can I control my lights with my phone?",
+          "answer": "Absolutely. We install smart switches and hubs for app control."
         }
       ],
       "slug": "lighting-installation-design"
     },
     {
       "icon": "04",
-      "title": "EV Charger Installation",
-      "shortDescription": "Professional installation of Level 2 EV chargers for your home or business.",
-      "longDescription": "Owning an electric vehicle means you need a reliable, fast charger at home. Our electricians install Level 2 chargers from top brands like Tesla, ChargePoint, and JuiceBox. We assess your panel capacity, run dedicated circuits, and mount the charger for optimal convenience. Plus, we help you take advantage of rebates and tax credits.",
+      "title": "Electrical Troubleshooting & Repair",
+      "shortDescription": "Diagnose and fix electrical issues fast.",
+      "longDescription": "From dead outlets to flickering lights, we pinpoint the root cause and make lasting repairs. Our diagnostic process saves you time and money.",
       "benefits": [
-        "Faster charging than standard outlets",
-        "Increases home value and convenience",
-        "Eligible for federal and local incentives"
+        "Quick diagnosis",
+        "Permanent fixes",
+        "Safety inspection included"
       ],
       "process": [
         {
-          "title": "Site Assessment",
-          "description": "We inspect your panel, parking location, and existing wiring to determine the best setup."
+          "title": "Diagnosis",
+          "description": "We use specialized tools to locate the problem."
         },
         {
-          "title": "Permitting & Rebates",
-          "description": "We handle permits and help you apply for available rebates to offset costs."
+          "title": "Repair",
+          "description": "We fix or replace faulty components."
         },
         {
-          "title": "Installation & Testing",
-          "description": "We install the charger, run the circuit, and test the system to ensure safe, reliable charging."
+          "title": "Verification",
+          "description": "We test the circuit to ensure everything works properly."
         }
       ],
       "faqs": [
         {
-          "question": "How much does EV charger installation cost?",
-          "answer": "Costs vary based on panel capacity and wiring distance. We provide a free estimate after assessment."
+          "question": "Why do my lights flicker?",
+          "answer": "Causes include loose connections, overloaded circuits, or faulty fixtures. We can identify and fix the issue."
         },
         {
-          "question": "Can you install any brand of charger?",
-          "answer": "Yes, we install all major brands and can recommend the best option for your vehicle and home."
+          "question": "Do you offer emergency repairs?",
+          "answer": "Yes, we provide same-day emergency service for urgent issues."
         }
       ],
-      "slug": "ev-charger-installation"
+      "slug": "electrical-troubleshooting-repair"
     }
   ],
   "about": {
-    "headline": "Family-Owned & Committed to Excellence",
-    "mission": "To provide safe, reliable electrical services with integrity and transparency – treating every home like our own.",
+    "headline": "Your Addison Electrical Experts",
+    "mission": "To provide safe, reliable, and affordable electrical services to Addison homeowners — with transparency and respect.",
     "story": [
-      "Ethan & Sons Electricians started in 1998 when founder Ethan Miller saw the need for honest, high-quality electrical work in Addison. With a small truck and a big dream, he built a reputation for showing up on time, fixing problems thoroughly, and never cutting corners. Over the years, his sons joined the business, bringing new skills and a shared passion for serving the community that raised them.",
-      "Today, we're a team of licensed electricians who take pride in our 4.8-star rating and over 500 glowing reviews. We invest in ongoing training, use the latest tools, and treat every customer like family. Whether it's a simple outlet repair or a full home rewiring, we bring the same dedication to every job – because your safety and satisfaction are our legacy."
+      "Ethan & Sons Electricians started as a small family operation in Addison over 15 years ago. What began with Ethan working out of his truck has grown into a trusted local business serving hundreds of homes. We believe in doing the job right the first time, treating every home like our own, and never cutting corners.",
+      "Today, our team of licensed electricians continues that tradition. We invest in ongoing training, use top-quality materials, and stand behind our work. Whether it’s a simple outlet repair or a full home rewire, we bring the same dedication to every project."
     ],
     "highlight": {
-      "stat": "26+",
+      "stat": "15+",
       "label": "Years Serving Addison"
     },
     "coreValues": [
       {
-        "title": "Integrity",
-        "description": "We give honest advice and fair pricing – no upsells, no surprises."
+        "title": "Safety",
+        "description": "We never compromise on safety — for our team or your family."
       },
       {
-        "title": "Safety",
-        "description": "Every job meets or exceeds code. We never compromise on safety."
+        "title": "Integrity",
+        "description": "We give honest advice and fair pricing, every time."
       },
       {
         "title": "Craftsmanship",
-        "description": "Our work is clean, precise, and built to last. We take pride in every detail."
+        "description": "We take pride in clean, precise work that lasts."
       },
       {
         "title": "Community",
-        "description": "We support local schools, charities, and neighbors because Addison is our home too."
+        "description": "We support Addison and its residents as neighbors."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch",
-    "subheadline": "Ready to schedule service or have a question? Call us or fill out the form – we'll respond within 24 hours.",
+    "subheadline": "Ready to start your project? Call or fill out our form for a free estimate.",
     "primaryCta": "Call (469) 425-8874",
     "formCta": "Send Message",
     "serviceAreas": [
-      "Addison, TX",
-      "Dallas, TX",
-      "Carrollton, TX",
-      "Farmers Branch, TX",
-      "Plano, TX",
-      "Richardson, TX"
+      "Addison",
+      "Dallas",
+      "Carrollton",
+      "Farmers Branch",
+      "Richardson",
+      "Plano"
     ]
   },
   "social_proof": {
-    "rating": 4.8,
+    "rating": "",
     "reviews": null
   },
   "meta": {
     "niche": "Electrician",
-    "generated_by": "deepseek"
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
   },
   "phone_href": "tel:4694258874",
-  "current_year": 2026
+  "current_year": 2026,
+  "header_cta": "Call Now"
 }
